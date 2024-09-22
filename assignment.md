@@ -63,12 +63,12 @@
 - Commit and push this Markdown document, along with the screenshots, to your GitHub repository.
 
 ## Notes
-**GCP**
-- Relatively easy to use i.e., create and delete instances.
-- Friedly UI/UX.
-- The hardest about this was due to my lack of experience with GCP.
-**GCP**
-- The creation of a VPC is very simple.
-- I cannot get pass the "Size" option on Azure to create a VM.
+- **GCP**
+  - Relatively easy to use i.e., create and delete instances.
+  - Friedly UI/UX.
+  - The hardest about this was due to my lack of experience with GCP.
+-**Azure**
+  - The creation of a VPC is very simple.
+  - I cannot get pass the "Size" option on Azure to create a VM.
 
 
