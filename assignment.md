@@ -49,7 +49,8 @@
 
 ## Notes
 **GCP**
-- Relatively easy to use. Friedly UI/UX
+- Relatively easy to use i.e., create and delete instances.
+- Friedly UI/UX.
 - The hardest about this was due to my lack of experience with GCP.
 
 
