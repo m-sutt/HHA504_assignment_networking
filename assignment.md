@@ -40,11 +40,26 @@
 <img width="696" alt="GCP10" src="https://github.com/user-attachments/assets/e105eaf0-4878-4a93-940e-174ea85907ce">
 
 
-### 5. Submit Your Work
-- Create a Markdown document that includes:
-  - Screenshots of the VPC/VNet creation and IP reservation process in both Azure and GCP.
-  - Documentation of the steps taken to map the IP address to a domain in both platforms.
-  - (Optional) Brief notes on VPN setup in Azure and GCP.
+## Instructions
+
+### 1. Create a Virtual Private Cloud (VPC)
+- **Azure:**
+<img width="1446" alt="Azure1" src="https://github.com/user-attachments/assets/12b53968-fb5c-4a60-b221-7c03a0604d16">
+
+<img width="1436" alt="Azure2" src="https://github.com/user-attachments/assets/1478ff0a-84f4-45df-b70e-f49c8ddb23c6">
+
+<img width="1444" alt="Azure3" src="https://github.com/user-attachments/assets/e99dfe18-4c9b-45f6-94ce-76d5deab8b3b">
+
+
+### 2. Assign a Dedicated IP
+- **Azure:**
+  - Reserve a static public IP address for a resource (e.g., a virtual machine) within your VNet.
+  - Unable to create a VM on Azure
+
+<img width="1429" alt="Azure4" src="https://github.com/user-attachments/assets/4aa8cd44-24f0-4ce2-a5ce-da73bbd0f43c">
+<img width="1438" alt="Azure5" src="https://github.com/user-attachments/assets/3ff35ca3-2d44-4929-8d2d-e1fb7d67cfbc">
+
+
 - Commit and push this Markdown document, along with the screenshots, to your GitHub repository.
 
 ## Notes
@@ -52,5 +67,8 @@
 - Relatively easy to use i.e., create and delete instances.
 - Friedly UI/UX.
 - The hardest about this was due to my lack of experience with GCP.
+**GCP**
+- The creation of a VPC is very simple.
+- I cannot get pass the "Size" option on Azure to create a VM.
 
 
