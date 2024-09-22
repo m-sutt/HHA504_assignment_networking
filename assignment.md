@@ -67,7 +67,7 @@
   - Relatively easy to use i.e., create and delete instances.
   - Friedly UI/UX.
   - The hardest about this was due to my lack of experience with GCP.
--**Azure**
+- **Azure**
   - The creation of a VPC is very simple.
   - I cannot get pass the "Size" option on Azure to create a VM.
 
