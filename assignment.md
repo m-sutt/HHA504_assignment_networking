@@ -60,7 +60,6 @@
 <img width="1438" alt="Azure5" src="https://github.com/user-attachments/assets/3ff35ca3-2d44-4929-8d2d-e1fb7d67cfbc">
 
 
-- Commit and push this Markdown document, along with the screenshots, to your GitHub repository.
 
 ## Notes
 - **GCP**
